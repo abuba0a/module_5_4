@@ -1,5 +1,5 @@
 class Buiding:
-    total = []
+    total = 0
     def __init__(self, house, name):
         self.name = name
         self.house = house
